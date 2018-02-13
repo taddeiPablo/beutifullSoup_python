@@ -31,9 +31,10 @@ class Mercadolibre_soup(object):
         return categorias
     def search_producs(self, link):
         contents = urllib.urlopen(link)
-        bet = BeautifulSoup(contest, 'lxml')
-        all = bet.findAll('div', attrs={'class':'rowItem item item--stack new'})
-
+        bet = BeautifulSoup(contents, 'lxml')
+        print(bet.findAll('ul').li)
+        all = bet.findAll('li', attrs={'class':'results-item article'})
+        #print(all)
 
 
 if __name__ == "__main__":
@@ -49,17 +50,5 @@ if __name__ == "__main__":
     for c in categorias:
         if c.title.find(cat) != -1 :
             final_url = c.url + producto
-            #print(final_url)
             mercado.search_producs(final_url)
             break
-    #for c in categorias:
-        #auxiliar = c.title.split('y')
-        #if len(auxiliar) > 1:
-            #if auxiliar[0].find(cat) != -1:
-                #aux_url = c.url + auxiliar[0] + "-" + producto
-                #print(aux_url)
-                #break
-            #elif auxiliar[1].find(cat) != -1:
-                #aux_url = c.url + auxiliar[1] + "/" + producto
-                #print(aux_url)
-                #break

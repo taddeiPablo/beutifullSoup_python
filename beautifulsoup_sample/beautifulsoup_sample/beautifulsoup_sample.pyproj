@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>96f72e2e-2b3a-42bf-bcc5-95391767a6e1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>beautifulsoup_sample.py</StartupFile>
+    <StartupFile>products_apis.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="beautifulsoup_sample.py" />
+    <Compile Include="products_apis.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|2.7-32" />
