@@ -48,7 +48,8 @@ if __name__ == "__main__":
     categorias = mercado.content_categorias()
 
     for c in categorias:
-        if c.title.find(cat) != -1 :
-            final_url = c.url + producto
-            mercado.search_producs(final_url)
-            break
+        print(c.title)
+        #if c.title.find(cat) != -1 :
+            #final_url = c.url + producto
+            #mercado.search_producs(final_url)
+            #break

@@ -1,0 +1,11 @@
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\bin\Debug\netcoreapp2.0\webscrapy_example.deps.json
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\bin\Debug\netcoreapp2.0\webscrapy_example.runtimeconfig.json
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\bin\Debug\netcoreapp2.0\webscrapy_example.runtimeconfig.dev.json
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\bin\Debug\netcoreapp2.0\webscrapy_example.dll
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\bin\Debug\netcoreapp2.0\webscrapy_example.pdb
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\obj\Debug\netcoreapp2.0\webscrapy_example.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\obj\Debug\netcoreapp2.0\webscrapy_example.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\obj\Debug\netcoreapp2.0\webscrapy_example.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\obj\Debug\netcoreapp2.0\webscrapy_example.AssemblyInfo.cs
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\obj\Debug\netcoreapp2.0\webscrapy_example.dll
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\webscrapy_example\obj\Debug\netcoreapp2.0\webscrapy_example.pdb

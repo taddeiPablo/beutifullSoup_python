@@ -43,6 +43,7 @@ class MercadoLibre_api(object):
     ## obtenemos los productos apartir del requests
     def get_products(self, search):
         search_encode = urllib.quote_plus(search)
+        print(search_encode)
         contents = requests.get('https://api.mercadolibre.com/sites/MLU/search?q='+search_encode)
         data = json.loads(contents.text)
         results = data['results']
@@ -52,6 +53,9 @@ class MercadoLibre_api(object):
             producto = x
             product_list.append(producto)
         return product_list
+
+class Hayak_api_test(object):
+    pass
 
 if __name__=='__main__':
     mercado = MercadoLibre_api()

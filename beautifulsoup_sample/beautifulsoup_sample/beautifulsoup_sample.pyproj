@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>96f72e2e-2b3a-42bf-bcc5-95391767a6e1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>products_apis.py</StartupFile>
+    <StartupFile>selenium_scrapy.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,8 +22,14 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="beautifulsoup_example.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="beautifulsoup_sample.py" />
     <Compile Include="products_apis.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="selenium_scrapy.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

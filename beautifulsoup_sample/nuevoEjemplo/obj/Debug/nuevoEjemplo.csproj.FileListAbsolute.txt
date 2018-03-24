@@ -1,0 +1,10 @@
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\bin\Debug\nuevoEjemplo.exe.config
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\bin\Debug\nuevoEjemplo.exe
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\bin\Debug\nuevoEjemplo.pdb
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\obj\Debug\nuevoEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\obj\Debug\nuevoEjemplo.exe
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\obj\Debug\nuevoEjemplo.pdb
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pablo\Documents\GitHub\beutifullSoup_python\beautifulsoup_sample\nuevoEjemplo\obj\Debug\nuevoEjemplo.csprojResolveAssemblyReference.cache
